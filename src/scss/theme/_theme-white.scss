@@ -1,0 +1,27 @@
+// Graphic chart
+$red: #df2e30;
+$blue: #1894c4;
+$facebook: #3b5998;
+$twitter: #43bfe1;
+
+$color1: $red;
+$color2: $blue;
+
+// Text
+$color-text-base: #212121;
+
+// link
+$color-link: $color1;
+$color-link-hover: darken($color1, 10%);
+
+// Mixin Placeholder
+$color-mixin-placeholder: #cdcdcd;
+
+// Selection
+$color-selection: $color1;
+
+// Btn
+$bg-btn: #555;
+$bg-btn-hover: darken($bg-btn, 10%);
+$clr-btn: #212121;
+$clr-btn-hover: darken($clr-btn, 10%);
