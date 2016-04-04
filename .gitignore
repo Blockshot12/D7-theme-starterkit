@@ -34,7 +34,6 @@ Thumbs.db
 #################
 node_modules/
 bower_components/
-bower.json
 .jshintrc
 .sass-cache
 *.css.map
